@@ -1,0 +1,5 @@
+Data Summary 
+
+For this analysis, we will be using Data taken from car accidents in the Seattle, WA area from 2004 through May of 2020 (see Data.csv). Our target variable will be SEVERITYCODE, which indicates whether an accident caused only property damage (1) or if it also caused bodily injury to one or more person (2). We will be comparing this variable against weather, road conditions, light conditions, and accident location in order to try to predict under what circumstances accidents are more dangerous.
+
+Prior to doing our analysis, the data has been cleaned so that unneeded data, such as city-specific administrative fields, and data with incomplete fields have been removed.
