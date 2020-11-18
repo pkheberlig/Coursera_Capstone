@@ -1,3 +1,0 @@
-Problem Introduction
-
-There are 6 million motor vehicle accidents in the United States every year, resulting in over 35,000 deaths. There are multiple reasons to track information about automobile accidents. Manufacturers might use this information to improve vehicle safety; public officials could use it to make decisions regarding speed limits or planning for emergency services; urban planners might seek to understand the relationship between types of roadways and the frequency and severity of accidents on them; and the information could prove useful to drivers themselves, who may make different decisions about how, when, and where to drive. In this project, we will be predicting the severity of car accidents based on a variety of attributes.
